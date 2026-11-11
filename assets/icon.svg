@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+<title id="title">YellowCanvas</title>
+<path fill="#111318" d="M0 0H1024V1024H0Z"/>
+<g transform="translate(128 328)"><g fill="#FFDC00">
+  <rect x="15" y="15" width="338" height="338" rx="49" fill="none" stroke="#FFDC00" stroke-width="30"/>
+  <path d="M124 120 C124 104 135 97 149 105 L259 169 C274 178 274 191 259 200 L149 264 C135 272 124 265 124 249 Z"/>
+  <g transform="translate(400 0)">
+    <rect x="15" y="15" width="338" height="338" rx="49" fill="none" stroke="#FFDC00" stroke-width="30"/>
+    <path d="M124 120 C124 104 135 97 149 105 L259 169 C274 178 274 191 259 200 L149 264 C135 272 124 265 124 249 Z"/>
+  </g>
+</g></g>
+</svg>

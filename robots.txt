@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coofzilla.github.io/yellow_canvas_web/sitemap.xml
